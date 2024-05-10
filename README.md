@@ -1,0 +1,1 @@
+Research project using the BERTweet model and custom adapters to classify the stance of tweets in relation to rumors. A modern approach for Task A of the competition of the SemEval_2017. https://aclanthology.org/S17-2006/
